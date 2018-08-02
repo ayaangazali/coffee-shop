@@ -8,3 +8,38 @@ body {
 a {
 	color: #6f4e37;
 }
+
+.header {
+	background: #4b3621;
+	padding: 15px 30px;
+}
+
+.logo {
+	float: left;
+	color: #f5efe6;
+	font-size: 24px;
+	font-weight: bold;
+	margin-top: 5px;
+}
+
+.nav {
+	float: right;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.nav li {
+	display: inline-block;
+	margin-left: 20px;
+}
+
+.nav li a {
+	color: #f5efe6;
+	text-decoration: none;
+	font-size: 16px;
+}
+
+.nav li a:hover {
+	color: #d2b48c;
+}
