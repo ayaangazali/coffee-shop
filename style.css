@@ -69,3 +69,46 @@ a {
 	margin-top: 15px;
 	font-weight: bold;
 }
+
+.section {
+	padding: 40px;
+	text-align: center;
+}
+
+.cream {
+	background: #ede0d4;
+}
+
+.section h2 {
+	color: #4b3621;
+	font-size: 32px;
+}
+
+.drink {
+	float: left;
+	width: 30%;
+	margin: 1.5%;
+	background: #fff;
+	padding: 20px;
+	box-sizing: border-box;
+}
+
+.drink h3 {
+	color: #6f4e37;
+}
+
+.price {
+	color: #4b3621;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.hours {
+	margin: 0 auto;
+	font-size: 18px;
+}
+
+.hours td {
+	padding: 6px 20px;
+	text-align: left;
+}
