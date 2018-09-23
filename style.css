@@ -112,3 +112,31 @@ a {
 	padding: 6px 20px;
 	text-align: left;
 }
+
+.menu-wrap {
+	padding: 0 40px 40px 40px;
+}
+
+.menu-col {
+	float: left;
+	width: 50%;
+	box-sizing: border-box;
+	padding: 0 20px;
+}
+
+.menu-col h3 {
+	color: #6f4e37;
+	font-size: 26px;
+	border-bottom: 2px solid #d2b48c;
+	padding-bottom: 8px;
+}
+
+.menu-item {
+	padding: 8px 0;
+	font-size: 18px;
+	border-bottom: 1px dotted #ccc;
+}
+
+.menu-item .price {
+	float: right;
+}
