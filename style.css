@@ -140,3 +140,29 @@ a {
 .menu-item .price {
 	float: right;
 }
+
+.contact-form {
+	max-width: 500px;
+	margin: 0 auto;
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 12px;
+	box-sizing: border-box;
+	border: 1px solid #c8b8a8;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+}
+
+.contact-form input[type="submit"] {
+	border: none;
+	cursor: pointer;
+}
+
+.btn:hover {
+	background: #c19a6b;
+}
