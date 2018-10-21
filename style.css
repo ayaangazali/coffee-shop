@@ -166,3 +166,11 @@ a {
 .btn:hover {
 	background: #c19a6b;
 }
+
+.footer {
+	background: #4b3621;
+	color: #d2b48c;
+	text-align: center;
+	padding: 20px;
+	font-size: 14px;
+}
