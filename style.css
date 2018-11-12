@@ -167,6 +167,15 @@ a {
 	background: #c19a6b;
 }
 
+.menu-toggle {
+	display: none;
+	float: right;
+	color: #f5efe6;
+	font-size: 26px;
+	cursor: pointer;
+	margin-top: 2px;
+}
+
 .footer {
 	background: #4b3621;
 	color: #d2b48c;
