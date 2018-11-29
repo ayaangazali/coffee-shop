@@ -183,3 +183,31 @@ a {
 	padding: 20px;
 	font-size: 14px;
 }
+
+@media (max-width: 600px) {
+	.drink {
+		width: 100%;
+		margin: 10px 0;
+	}
+	.menu-col {
+		width: 100%;
+		padding: 0;
+	}
+	.hero h1 {
+		font-size: 36px;
+	}
+	.menu-toggle {
+		display: block;
+	}
+	.nav {
+		display: none;
+		float: none;
+		clear: both;
+		margin-top: 10px;
+	}
+	.nav li {
+		display: block;
+		margin: 0;
+		padding: 8px 0;
+	}
+}
